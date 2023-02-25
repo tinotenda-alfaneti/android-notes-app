@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871924616185",
+    "project_id": "atarist-notes-app",
+    "storage_bucket": "atarist-notes-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871924616185:android:7a42311e2eab926c1f4b28",
+        "android_client_info": {
+          "package_name": "com.atarist.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871924616185-jde5ep3ijddth7c9u2mss1bla88lt4oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoA6VflNv9M7SKcDswi9o43YY7AaweuZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871924616185-jde5ep3ijddth7c9u2mss1bla88lt4oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
