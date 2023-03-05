@@ -1,4 +1,4 @@
-# mynotes
+# android-notes-app
 
 A new Flutter project.
 
